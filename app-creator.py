@@ -14,6 +14,10 @@ openai.api_key = os.getenv('OPENAI_API_KEY')
 # define screens and their respective descriptions
 screens = [
     {
+        "name": "login_screen",
+        "description": "A login screen with one text box for the user name and other for the password, the login and register buttons horizontally placed below of the boxes."
+    },
+    {
         "name": "main_screen",
         "description": "A screen with a side Drawer containing a profile picture and a list of items, a map and a Floating Action Button that opens a new form dialog screen."
     }
