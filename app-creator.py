@@ -40,7 +40,7 @@ for screen in screens:
         model="gpt-3.5-turbo",
         messages=[
             {"role": "system", "content": "You are a Flutter mobile development and testing expert and I need you to provide the source code required for the screen"},
-            {"role": "user", "content": "Given the following tests for the {} screen:\n{}\nWrite the Flutter Widget source code:".format(screen['name'], tests)},
+            {"role": "user", "content": "Given the following tests:\n{}For the screen:\n{}\nWrite the Flutter Widget source code:".format(tests, screen['description'])},
         ]
     )
 
