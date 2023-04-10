@@ -2,7 +2,7 @@ This is a small Python script that uses the OpenAI GPT language model to automat
 
 ## Configuration
 
-You need to have an OpenAI, get it from [here](https://platform.openai.com/account/api-keys). Once you have your API key, create a `.env` file in the same level following the next format:
+To use this script, you will need to obtain an OpenAI API key. You can obtain a key by visiting this [link](https://platform.openai.com/account/api-keys). Once you have obtained it create a .env file in the same directory as the script, using the following format:
 
 > OPENAI_API_KEY=sk-wUC9W2Ye04a0dYZzZwl7T...
 
@@ -16,9 +16,9 @@ pip install python-dotenv
 
 ## Usage
 
-Before running it you can modify the `screens` list in the script to add or remove screens and their descriptions. This script generates Flutter code you can adapt it to your requirements.
+Before running it you can modify the `screens` list in the script to add or remove screens and their descriptions. This script generates `Flutter` code but you can adapt it to your requirements.
 
-Then simply run the `app-creator` with the following command-line arguments:
+Then simply run the `app-creator` script with the following command-line arguments:
 
 ```bash
 python app-creator.py
