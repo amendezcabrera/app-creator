@@ -2,7 +2,7 @@ This is a small Python script that uses the OpenAI GPT language model to automat
 
 ## Configuration
 
-To use this script, you will need to obtain an OpenAI API key. You can obtain a key by visiting this [link](https://platform.openai.com/account/api-keys). Once you have obtained it create a .env file in the same directory as the script, using the following format:
+To use this script, you will need to obtain an OpenAI API key. You can obtain a key by visiting this [link](https://platform.openai.com/account/api-keys). Once you have obtained it create a `.env` file in the same directory as the script, using the following format:
 
 > OPENAI_API_KEY=sk-wUC9W2Ye04a0dYZzZwl7T...
 
