@@ -29,5 +29,3 @@ After requesting tests and source code from ChatGPT you will receive a response 
 ## License
 
 This script is released under the MIT License. See LICENSE.md for details.
-
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="betazetadev" data-color="#000000" data-emoji="🍺" data-font="Bree" data-text="A beer is always welcome" data-outline-color="#ffffff" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
