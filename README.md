@@ -29,5 +29,3 @@ After requesting tests and source code from ChatGPT you will receive a response 
 ## License
 
 This script is released under the MIT License. See LICENSE.md for details.
-
-[<img src="bmc_qr.png">](https://www.buymeacoffee.com/betazetadev "Buy me a coffee if you liked it")
